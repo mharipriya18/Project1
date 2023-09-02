@@ -1,0 +1,4 @@
+color="Yellow"
+print(color)
+
+
